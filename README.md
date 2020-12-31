@@ -1,0 +1,1 @@
+THis project is to replicate a homepage (maybe?). I have used my terminal skills, such as adding a directory, moving between directories, etc., thus far in the completion of this project. I anticipate utilizing some HTML and CSS skills as well. 
